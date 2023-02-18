@@ -12,7 +12,7 @@
     </parent>
 
     <!--for project informartion-->
-    <groupId>com.hamitmizrak</groupId>
+    <groupId>com.halitdeniz</groupId>
     <artifactId>EcodationBlogProject7</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>EcodationBlogProject7</name>
@@ -62,7 +62,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-mail</artifactId>
         </dependency>
-
 
         <!--lombok-->
         <dependency>
@@ -161,7 +160,7 @@
                 <version>3.0.2</version>
             </plugin>
 
-            <!-- for maven target 17 -->
+            <!-- for maven target 19 -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
